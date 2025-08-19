@@ -127,10 +127,10 @@
 
 <div align="center">
   <a href="https://github.com/xn030523/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xn030523&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xn030523&repo=augment-token-idea-free&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
   <a href="https://github.com/xn030523/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xn030523&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xn030523&repo=augment-token-vscode-free&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
